@@ -1,5 +1,5 @@
 # UICWebScraper
-Minimum JS script for scraping of UIC web prices.
+Minimum JS script for scraping of actual Unipetrol Index Czech values from the official web.
 
 Deps: Puppeteer
 
