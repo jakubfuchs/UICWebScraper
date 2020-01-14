@@ -1,12 +1,16 @@
 {
-  "name": "UIC web scraper",
+  "name": "UICWebScraper",
   "version": "1.0.0",
   "description": "A minimum webscrap of UIC daily prices.",
   "main": "uic.js",
   "scripts": {
     "start": "node uic.js"
   },
-  "keywords": ["UIC", "UIC Price", "web scrap"],
+  "keywords": [
+    "UIC",
+    "UIC Price",
+    "web scrap"
+  ],
   "author": "Jakub Fuchs",
   "license": "ISC",
   "dependencies": {
