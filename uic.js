@@ -170,6 +170,7 @@ function main() {
 // DEV BLOCK
 (function() {
 
+  console.log("remember... running xserver is required for WSL!")
   main();
 
 
